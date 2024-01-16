@@ -32,5 +32,3 @@ for n in range(1,101):
             print(n)
         else:
             print (n)
-print("hello")
->>>>>>> 9185efc (commit123)
