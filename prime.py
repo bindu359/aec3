@@ -1,5 +1,6 @@
 # Program to check if a number is prime or not
 
+<<<<<<< HEAD
 num = 29
 
 # To take input from the user
@@ -24,3 +25,12 @@ elif num > 1:
         print(num, "is not a prime number")
     else:
         print(num, "is a prime number")
+=======
+for n in range(1,101):
+    if is_prime(n):
+        if n==97:
+            print(n)
+        else:
+            print (n)
+print("hello")
+>>>>>>> 9185efc (commit123)
